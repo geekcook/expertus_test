@@ -7,6 +7,6 @@
 <title>Expertus Test Web App</title>
 </head>
 <body>
-<h1><% out.println("Hello Expertus!"); %></h1>
+<h1><% out.println("Hello Exlorpertus!"); %></h1>
 </body>
 </html>
